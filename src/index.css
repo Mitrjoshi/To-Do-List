@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.task_list {
+  display: grid;
+  grid-template-columns: 1fr 32px 32px;
+}
