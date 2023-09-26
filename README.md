@@ -1,4 +1,4 @@
-# Run locally  
+## Run locally  
 
 1. Install dependecies  
 `npm i`
